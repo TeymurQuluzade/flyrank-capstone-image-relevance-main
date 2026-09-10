@@ -1,0 +1,18 @@
+run: docker compose up
+seed: docker compose run app npm run seed
+test: npm test
+base_url: http://localhost:3000
+endpoints:
+  - GET /health
+  - POST /images
+  - GET /images
+  - GET /images/:id
+  - POST /posts
+  - GET /posts
+  - GET /posts/:id
+  - POST /jobs/images/process
+  - GET /jobs/:id
+  - GET /posts/:id/images
+  - GET /suggestions/:id
+  - POST /suggestions/:id/approve
+  - POST /suggestions/:id/reject

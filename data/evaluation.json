@@ -1,0 +1,62 @@
+[
+  {
+    "postId": "d001dd28-5df7-4c01-879e-30fe58c5ee3c",
+    "correctImageId": "b3b126c1-1f83-4426-bc24-d46238be3fdf",
+    "description": "Red fox behavior post matched to red fox image"
+  },
+  {
+    "postId": "00cb2463-a1be-4a07-a428-7e58b2fa1ffd",
+    "correctImageId": "4171d15f-f923-4249-ab4f-a1e5b5c598be",
+    "description": "Wolf pack dynamics post matched to wolf image"
+  },
+  {
+    "postId": "c82fbb27-0dfd-4bbf-b18a-0fc6171ea3cd",
+    "correctImageId": "1fb1ced6-fa30-4b90-a072-b38d17118663",
+    "description": "Domestic dogs post matched to dog image"
+  },
+  {
+    "postId": "7f1abf40-9ba9-44a6-8476-36f2e87d5f08",
+    "correctImageId": "d96bc034-97eb-47c1-9612-050169ffd8cb",
+    "description": "Bear habitats post matched to bear image"
+  },
+  {
+    "postId": "e31922d7-0d53-4f0a-87fd-d4e4b02ed820",
+    "correctImageId": "e0fe1bf9-74ca-42f1-b544-e8dd5fd449d2",
+    "description": "Deer in forest post matched to deer image"
+  },
+  {
+    "postId": "d7b3d715-a5d3-4535-bfe5-e3e24c3a4ca6",
+    "correctImageId": "dda34100-f74d-4d43-916e-a79fb1f4db6b",
+    "description": "Urban foxes post matched to red fox image"
+  },
+  {
+    "postId": "99275e64-b974-4512-967a-e4fe02014405",
+    "correctImageId": "4171d15f-f923-4249-ab4f-a1e5b5c598be",
+    "description": "Arctic wolf survival post matched to wolf image"
+  },
+  {
+    "postId": "64381f43-f740-49ec-8a28-d00dc9ed1f48",
+    "correctImageId": "5339088b-8bc0-4654-912a-9009aca7baac",
+    "description": "Dog-human bond post matched to dog image"
+  },
+  {
+    "postId": "dcc61b2e-1a84-40ee-8c08-decb3379fb45",
+    "correctImageId": "288dc76e-ecf6-4fde-a217-ddd8c8030445",
+    "description": "Grizzly bear fishing post matched to bear image"
+  },
+  {
+    "postId": "07c36302-6a1e-45cb-84cd-77a245041631",
+    "correctImageId": "8a332d2f-1e25-4d06-b5dd-19bbe853f30d",
+    "description": "White-tailed deer migration post matched to deer image"
+  },
+  {
+    "postId": "3fb0a376-2016-4db6-ae44-984e2a1ca851",
+    "correctImageId": "67bd6ec0-8640-427a-a8ef-04ce7db30b17",
+    "description": "North American predators post matched to fox image"
+  },
+  {
+    "postId": "75a26d1b-ebfa-4882-b537-aa6c7d025c7f",
+    "correctImageId": "71d7b234-eaa1-482c-bd93-9047aba65a72",
+    "description": "Forest mammals post matched to deer image"
+  }
+]
